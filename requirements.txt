@@ -1,0 +1,8 @@
+requests
+SpeechRecognition
+PyAudio
+pygame
+edge-tts
+pyautogui
+Pillow
+python-dotenv
