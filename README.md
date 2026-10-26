@@ -1,5 +1,6 @@
-![CEZERİ V5 ekran görüntüsü](ekran.png)
 # 🤖 CEZERİ V5
+
+![CEZERİ V5 ekran görüntüsü](ekran.png)
 
 Türkçe konuşan, sesli komutla çalışan yapay zeka asistanı. Özellikle **yaşlı kullanıcılar** düşünülerek, sade ve kısa cümlelerle cevap verecek şekilde tasarlandı.
 
@@ -42,8 +43,8 @@ Türkçe konuşan, sesli komutla çalışan yapay zeka asistanı. Özellikle **y
 **1. Projeyi indir**
 
 ```
-git clone https://github.com/KULLANICIADIN/cezeri-v5.git
-cd cezeri-v5
+git clone https://github.com/bellimuhammed863-spec/Cezeri-V5.git
+cd Cezeri-V5
 ```
 
 **2. Kütüphaneleri kur**
