@@ -517,6 +517,7 @@ def gonder_mantigi(veri):
     dogal = dogal_gorev_ekle(veri)
     if dogal:
         mesaj_ekle(dogal)
+
         return
 
     cevap = None
